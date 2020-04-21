@@ -1,0 +1,29 @@
+p{
+	font:bold;
+	color: #fff;
+	font-size: 50px;
+	padding left: 20px; 
+	}
+body{
+	background-image: url('Pictures/library.JPG');
+	background-size: cover;
+}
+.tm-logo{
+	float: left;
+	}
+.tm-nav{
+	float: right;
+	}
+.tm-nav ul li{
+	display:inline-block; 
+}
+.tm-nav ul li a{
+	padding: 20px 20px;	
+}
+.tm-nav ul li a:hover{
+	color: red;
+}
+.backimg{
+	padding-left: 10px;
+	margin-top: 10px;
+}

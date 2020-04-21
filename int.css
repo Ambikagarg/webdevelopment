@@ -1,0 +1,32 @@
+body{
+	background-image: url('Pictures/hobb.JPG');
+	background-size: cover;
+	float: right;
+	padding-right: 100px;
+}
+p{
+	font-size: 60px;
+	padding-right: 100px;
+	padding-top: 100px;
+	padding-bottom: 0px;
+}
+ul{
+	font-size: 40px;
+}
+
+.tm-logo{
+	float: left;
+	padding: 0px;
+	}
+.tm-nav{
+	float: right;
+	}
+.tm-nav ul li{
+	display:inline-block; 
+}
+.tm-nav ul li a{
+	padding: 20px 20px;	
+}
+.tm-nav ul li a:hover{
+	color: red;
+}

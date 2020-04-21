@@ -1,0 +1,32 @@
+.photo{
+	padding-right: 100px;
+	border: #e6e0d1;
+	border-width: 1px;
+	float: right;
+}
+.container{
+	font-size: 30px;
+	font-family: Englebert;
+	float: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+body{
+	background-image: url('Pictures/introduction.JPG');
+	background-size: cover;
+}
+.tm-logo{
+	float: left;
+	}
+.tm-nav{
+	float: right;
+	}
+.tm-nav ul li{
+	display:inline-block; 
+}
+.tm-nav ul li a{
+	padding: 10px 20px;	
+}
+.tm-nav ul li a:hover{
+	color: red;
+}

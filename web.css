@@ -1,0 +1,22 @@
+ul{
+	font-size: 40px;
+}
+
+.tm-logo{
+	float: left;
+	padding: 20px;
+	margin: 20px;
+	}
+.tm-nav{
+	float: right;
+	margin: 10px;
+	}
+.tm-nav ul li{
+	display:inline-block; 
+}
+.tm-nav ul li a{
+	padding: 20px 20px;	
+}
+.tm-nav ul li a:hover{
+	color: black;
+}
